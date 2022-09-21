@@ -26,7 +26,8 @@
             <trimStackTrace>false</trimStackTrace>
         </configuration>
     </plugin>
-  </plugins><build>
+  </plugins>
+ <build>
   <plugins>
     <plugin>
         <groupId>org.apache.maven.plugins</groupId>
